@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://helpserver.labs.jb.gg/help/schemas/mvp/html-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://helpserver.labs.jb.gg/help/schemas/mvp/topic.v2.xsd"
+       title="Statistic Finder" id="Section-Starting-Page">
+
+
+    <section-starting-page>
+        <title>Statistic Finder</title>
+        <description>
+            ここに概要が入ります
+        </description>
+
+        <!--    Add several topics that are most important for this section.    -->
+        <primary>
+            <title>使ってみる</title>
+            <a href="find-method-from-data-type.md" type="data" summary="" >分析したいデータから探す</a>
+            <a href="statistics-methods.md" type="library" summary="">統計手法一覧から探す</a>
+        </primary>
+
+        <secondary>
+        </secondary>
+
+    </section-starting-page>
+
+</topic>

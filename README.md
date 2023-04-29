@@ -1,1 +1,1 @@
-# statistics_finder
+# statistics-finder
