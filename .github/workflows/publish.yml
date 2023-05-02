@@ -11,7 +11,7 @@ permissions:
 
 env:
   PRODUCT: Writerside/statistics-finder
-  DOC_ARTIFACT: page-resource-XX-all.zip
+  DOC_ARTIFACT: webHelpSTATISTICS-FINDER2-all.zip
   # Add the variable below to upload Algolia indexes
 #  ALGOLIA_ARTIFACT: algolia-indexes-XX.zip
 
