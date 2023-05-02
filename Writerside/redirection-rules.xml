@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://helpserver.labs.jb.gg/help/schemas/mvp/redirection-rules.dtd">
+<rules>
+    <rule id="${ID}">
+        <accepts>page.html</accepts>
+    </rule>
+    <rule id="1432734e">
+        <description>Created after removal of "Statistic Finder とは" from statistics-finder</description>
+        <accepts>overview.html</accepts>
+    </rule>
+    <rule id="4a5d7a6f">
+        <description>Created after removal of "Welcome to Writerside!" from statistics-finder</description>
+        <accepts>Starter.html</accepts>
+    </rule>
+    <rule id="5db0d4dc">
+        <description>Created after removal of "Reference" from statistics-finder</description>
+        <accepts>Reference.html</accepts>
+    </rule>
+    <rule id="3ca07745">
+        <description>Created after removal of "Overview" from statistics-finder</description>
+        <accepts>Overview.html</accepts>
+    </rule>
+    <rule id="74cd1098">
+        <description>Created after removal of "Section Starting Page" from statistics-finder</description>
+        <accepts>example-Section-Starting-Page.html</accepts>
+    </rule>
+</rules>
