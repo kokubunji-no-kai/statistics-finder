@@ -4,9 +4,9 @@
 
 <instance-profile id="statistics-finder"
                   name="statistics-finder"
-                  start-page="Section-Starting-Page.topic">
+                  start-page="home.topic">
 
-    <toc-element topic="Section-Starting-Page.topic" toc-title="Home"/>
+    <toc-element topic="home.topic" toc-title="Home"/>
     <toc-element topic="find-method-from-data-type.md">
         <toc-element topic="data-type-1.md"/>
     </toc-element>
