@@ -3,7 +3,7 @@
         SYSTEM "https://helpserver.labs.jb.gg/help/schemas/mvp/html-entities.dtd">
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://helpserver.labs.jb.gg/help/schemas/mvp/topic.v2.xsd"
-       title="Statistic Finder" id="Section-Starting-Page">
+       title="Statistic Finder" id="home" help-id="Section-Starting-Page">
 
 
     <section-starting-page>
