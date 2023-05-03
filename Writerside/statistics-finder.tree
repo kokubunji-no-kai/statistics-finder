@@ -12,7 +12,12 @@
     </toc-element>
     <toc-element topic="statistics-methods.md">
         <toc-element topic="t-test.md"/>
+        <toc-element topic="analysis-of-variance-one-factorial.md"/>
         <toc-element topic="analysis-of-variance.md"/>
         <toc-element topic="principal-component-analysis.md"/>
+        <toc-element topic="factor-analysis.md"/>
+        <toc-element topic="correlation-analysis.md"/>
+        <toc-element topic="clustering.md"/>
+        <toc-element topic="chi-squared-test.md"/>
     </toc-element>
 </instance-profile>
