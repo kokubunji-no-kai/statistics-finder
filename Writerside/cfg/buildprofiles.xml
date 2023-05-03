@@ -11,5 +11,13 @@
     <build-profile instance="explain-data-type">
         <variables></variables>
     </build-profile>
-
+    <footer>
+        <copyright>
+            こくぶんじの会 2019-2023
+        </copyright>
+        <social type="blog" href="https://kokubunji-no-kai.com/#posts"/>
+        <social type="facebook" href="https://www.facebook.com/kokubunji.no.kai"/>
+        <social type="twitter" href="https://twitter.com/kokubunji_no_k"/>
+        <link href="https://kokubunji-no-kai.com/">こくぶんじの会</link>
+    </footer>
 </buildprofiles>
