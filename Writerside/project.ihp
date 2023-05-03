@@ -4,6 +4,6 @@
 <ihp version="2.0">
     <topics dir="topics"/>
     <images dir="images"/>
-    <instance src="statistics-finder.tree" version="1.0" web-path="./"/>
+    <instance src="statistics-finder.tree" version="1.0"/>
     <instance src="explain-data-type.tree" web-path="/explain-data-type/" version="1.0"/>
 </ihp>
